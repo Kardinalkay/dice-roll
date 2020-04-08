@@ -9,4 +9,8 @@ let roll = Math.floor(Math.random() * 6) + 1
 
 // 3. Create a button to roll die
 
+// 4. Listen to click on button
+
+
+
 console.log(roll);  // 1, 2, 3, 4, 5, or 6
