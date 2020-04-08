@@ -7,4 +7,6 @@ let roll = Math.floor(Math.random() * 6) + 1
 
 // 2. Insert one image in the HTML document
 
+// 3. Create a button to roll die
+
 console.log(roll);  // 1, 2, 3, 4, 5, or 6
