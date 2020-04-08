@@ -11,6 +11,9 @@ let roll = Math.floor(Math.random() * 6) + 1
 
 // 4. Listen to click on button
 
+// 5. Create a random number between 0 and 1 (since that is what JavaScript allows)
+
+
 
 
 console.log(roll);  // 1, 2, 3, 4, 5, or 6
